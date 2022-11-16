@@ -1,4 +1,4 @@
-# Python-HTTP-SERVEr-exfiltrate-file
+# Python-HTTP-SERVER-exfiltrate-file
 script server http python exfiltrate file
 
 Execute Script : python server.py {port}
